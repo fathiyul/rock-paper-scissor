@@ -12,12 +12,22 @@
 
 ## Scripts
 
+Install dependencies:
+
+```
+npm i
+```
+
 You can run:
 
-### `npm run dev`
+``` 
+npm run dev
+```
 
 Runs the app in the development mode using nodemon package.
 
-### `npm run build`
+```
+npm run build
+```
 
 Runs the app for production to the build folder
